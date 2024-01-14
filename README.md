@@ -1,2 +1,52 @@
 # privacy-policy
 This repository contains the Privacy Policy for my client G Beezer Consultants Pvt. Ltd.
+Privacy Policy
+
+
+Effective Date: 14-01-2024
+
+
+G Beezer Consultants Pvt. Ltd. ("we," "us," or "our") is committed to protecting the privacy of individuals who visit our business page on Facebook and provide their personal information. This Privacy Policy outlines how we collect, use, disclose, and protect the information collected on our Facebook business page.
+
+1. Information We Collect:
+   - We may collect the following personal information when you visit our Facebook page:
+     - Names
+     - Email addresses
+     - Contact numbers
+
+2. How We Use Your Information:
+   - We use the collected information to:
+     - Respond to inquiries and messages received on our Facebook page.
+     - Provide updates, news, and relevant information about our products and services.
+     - Communicate with you regarding promotions, events, or other marketing initiatives.
+     - Improve our Facebook page content and user experience.
+
+3. Disclosure of Your Information:
+   - We may share your information with third parties when necessary to provide the services you have requested.
+   - We will not sell, rent, or lease your personal information to third parties unless we have your permission or are required by law to do so.
+
+4. Data Security:
+   - We implement reasonable and appropriate security measures to protect your personal information from unauthorized access, disclosure, alteration, and destruction.
+
+5. Your Choices:
+   - You have the right to:
+     - Opt-out of receiving promotional communications from us by following the unsubscribe instructions provided in such communications.
+     - Request access to or correction of your personal information.
+
+6. Children's Privacy:
+   - Our Facebook page is not directed to children under the age of 13, and we do not knowingly collect personal information from children.
+
+7. Changes to this Privacy Policy:
+   - We reserve the right to update or modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the updated Privacy Policy on our Facebook page.
+
+8. Contact Us:
+   - If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [insert contact information].
+
+By interacting with our Facebook page, you agree to the terms of this Privacy Policy. If you do not agree with the terms, please refrain from providing any personal information or interacting with our Facebook page.
+
+G Beezer Consultants Pvt. Ltd.
+SCO 30-31, top Floor, Sector 8C, Chandigarh
+9878785542
+Gbeezers1@gmail.com
+
+Note: Ensure that you customize the placeholders such as "[Insert Date]" and others with the relevant information for your business. Additionally, make sure to comply with all applicable laws and regulations regarding data protection and privacy. Consider seeking legal advice to ensure your Privacy Policy aligns with relevant legal requirements.
